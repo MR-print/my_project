@@ -211,7 +211,7 @@ class CrackGeetest():
         input_account.send_keys(account)
 
     def crack(self):
-
+        '运行'
         try:
             self.open()
             # 点击验证按钮
